@@ -1,0 +1,13 @@
+--===Sprint 0 Review===--
+
+Date: 2020-03-10
+Scrum Master: Zachary
+Attendees: Shannon, Tyler, Zachary
+Absentees: N/A
+
+What did we complete last week: Planned and refined Sprint 1, and backlog in general.
+What do we plan to accomplish this week: BRUD-2, BRUD-3, BRUD-4
+Any blockers/help needed: N/A
+What did you try: Getting the PI flashed (Tyler) 
+What worked: Planning meeting
+What did not work: N/A
