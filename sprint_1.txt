@@ -1,0 +1,16 @@
+--===Sprint 1 Review===--
+
+Date: 2020-03-19
+Scrum Master: Zachary
+Attendees: Shannon, Tyler, Zachary
+Absentees: N/A
+
+What did we complete last week: Started sprint 1, but due to Corona, not a lot of work was completed.
+ - Pi is flashed (Tyler)
+ - Started Research on CI/CD (Zach)
+ - Started Research on Frontend (Shannon)
+What do we plan to accomplish this week: Continue BRUD-2, BRUD-3, BRUD-4
+Any blockers/help needed: N/A
+What did you try: N/A
+What worked: Pi is flashed
+What did not work: N/A
